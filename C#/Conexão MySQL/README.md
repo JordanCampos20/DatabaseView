@@ -1,5 +1,5 @@
 
-<p align="center"><img src="preview.png" alt="Project Preview"></p>
+<p align="center"><img src="Preview.png" alt="Project Preview"></p>
 
 ## Config
 
